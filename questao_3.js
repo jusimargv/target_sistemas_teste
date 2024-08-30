@@ -8,4 +8,4 @@ while (K < INDICE) { // Continua o loop enquanto 'K' for menor que 'INDICE'
     K = K + 1; // Incrementa 'K' em 1
     SOMA = SOMA + K; // Adiciona o valor de 'K' à variável 'SOMA'
 }
-console.log(SOMA); // Imprime o valor final de 'SOMA'
+console.log(SOMA); // Imprime o valor final de 'SOMA' 77
