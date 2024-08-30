@@ -1,4 +1,4 @@
-# target_sistemas_teste
+# <img src="logo.png" alt="Logo da Target Sistemas" width="50" height="50"> Target Sistemas Teste
 
 # Agradecimentos
 
@@ -8,7 +8,4 @@ Estou me esforçando continuamente em busca de uma oportunidade na área de tecn
 
 Atenciosamente,
 
-# Jusimar Alves Da Silva 
-
-
-
+# Jusimar Alves Da Silva
