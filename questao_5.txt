@@ -1,0 +1,13 @@
+Questão 5 Interruptores e Lâmpadas
+
+
+// Interruptores e Lâmpadas
+Para descobrir qual interruptor controla qual lâmpada, você pode seguir este procedimento:
+
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas:
+A lâmpada que está acesa é controlada pelo segundo interruptor.
+Toque nas lâmpadas apagadas. A que estiver quente foi controlada pelo primeiro interruptor.
+A lâmpada que estiver apagada e fria é controlada pelo terceiro interruptor.
+//
